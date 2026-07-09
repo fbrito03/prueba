@@ -12,10 +12,9 @@ Abstract
 *   Topic 2:.
 *   Topic 3:.
 
-## Team
+## Author
 
-*   Ronny , USM
-*   Osorio , USM
+*   Ronny Vallejos, Departamento de Matematica, Universidad Tecnica Federico Santa Maria.
 
 ## Publications
 
