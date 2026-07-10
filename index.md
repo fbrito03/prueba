@@ -14,7 +14,7 @@ The objetives are
 * Develop the parametric framework for the proposed coefficients, including the study of probability of agreement estimation, score tests, and likelihood ratio tests.
 * Evaluate and validate the performance of the developed methodologies through comprehensive Monte Carlo simulation studies and applications to real-world datasets, including Chilean poverty indices (CASEN), US soil contamination, and Harvard Forest data.
 
-## Author
+## Principal Investigator
 * **Ronny Vallejos**  
   *Universidad Técnica Federico Santa María*
   
