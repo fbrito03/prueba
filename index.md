@@ -45,6 +45,29 @@ The objetives are
 
 ## Students
 
+* **Benjamin Bravo** *Thesis:* Tamaño Muestral Efectivo para Modelos Lineales Generalizados.  
+  Ingeniería Civil Matemática y Magister en Ciencias Mención Matemática, UTFSM. (May 04, 2026).
+* **Sebastián Vidal** *Thesis:* Impacto del preprocesamiento en la segmentación de imágenes.  
+  Ingeniería Civil Matemática, UTFSM. (December 27, 2024).
+* **Clemente Ferrer** *Thesis:* A concordance coefficient for lattice data and effective sample size for spatial point processes.  
+  Ingeniería Civil Matemática y Magister en Ciencias Mención Matemática, UTFSM. (November 08, 2024).
+* **Eduardo Rubio** *Thesis:* Propiedades estadísticas de la correlación integral.  
+  Ingeniería Civil Matemática, UTFSM. (October 28, 2024).
+* **Cloe Romero** *Thesis:* Desempeño de la verosimilitud compuesta para datos espaciales de gran tamaño.  
+  Ingeniería Civil Matemática, UTFSM. (August 19, 2024).
+* **Pilar Cerda** *Thesis:* Probabilidad de excedencia para problemas de contaminación espacial.  
+  Ingeniería Civil Matemática, UTFSM. (April 19, 2024).
+* **Fabián Castellano** *Thesis:* Análisis de imágenes a través de la transformación de Box-Cox.  
+  Ingeniería Civil Matemática, UTFSM. (March 26, 2024).
+* **John Gómez** *Thesis:* Correlation integral for spatial and temporal processes.  
+  Doctorado en Matemática, UTFSM. Co-advised by Jonathan Acosta. (December 05, 2023).
+* **Daniel Gajardo** *Thesis:* Medidas generalizadas de correlación.  
+  Ingeniería Civil Matemática, UTFSM. (November 28, 2023).
+* **Javier Pizarro** *Thesis:* Modelo predictivo basado en conceptos de machine learning enfocado en cobranza judicial.  
+  Ingeniería Civil Matemática, UTFSM. (October 31, 2023).
+* **Bastián Sepúlveda** *Thesis:* Coeficiente de codispersión angular para detectar rotación de imágenes.  
+  Ingeniería Civil Matemática, UTFSM. (October 30, 2023).
+
 ## Activities
 
 
