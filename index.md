@@ -27,7 +27,7 @@ The objetives are
   *Harvard University*
 * **Francisco Rodríguez**  
   *Universidad Nacional de Colombia*
-* **Clemente Ferrer**  
+* [Clemente Ferrer](https://clementeferrer.github.io/)    
   *Pontificia Universidad Católica de Chile*
 * **Mario de Castro**  
   *Universidade de São Paulo*
