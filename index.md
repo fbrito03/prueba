@@ -16,13 +16,20 @@ The objetives are
 
 ## Collaboratos
 
-* Ronny Vallejos, Departamento de Matematica, Universidad Tecnica Federico Santa Maria.
-* Jonathan Acosta, PUC
-* Aaron Ellison, Harvard University
-* Francisco Rodriguez, Universidad Nacional de Colombia
-* Clemente Ferrer, PUC
-* Mario de Castro, USP
-* Felipe Osorio
+* **Ronny Vallejos**  
+  *Universidad Técnica Federico Santa María*
+* **Jonathan Acosta**  
+  *Pontificia Universidad Católica de Chile*
+* **Aaron Ellison**  
+  *Harvard University*
+* **Francisco Rodríguez**  
+  *Universidad Nacional de Colombia*
+* **Clemente Ferrer**  
+  *Pontificia Universidad Católica de Chile*
+* **Mario de Castro**  
+  *Universidade de São Paulo*
+* **Felipe Osorio**  
+  *Universidad Técnica Federico Santa María*
 
 ## Publications
 
