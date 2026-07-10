@@ -16,15 +16,24 @@ The objetives are
 
 ## Collaboratos
 
-*   Ronny Vallejos, Departamento de Matematica, Universidad Tecnica Federico Santa Maria.
-*   Jonathan Acosta, PUC
-*   Aaron Ellison, Harvard University
-*   Francisco Rodriguez, Universidad Nacional de Colombia
-*   Clemente Ferrer, PUC
-*   Mario de Castro, USP
-*   Felipe Osorio
+* Ronny Vallejos, Departamento de Matematica, Universidad Tecnica Federico Santa Maria.
+* Jonathan Acosta, PUC
+* Aaron Ellison, Harvard University
+* Francisco Rodriguez, Universidad Nacional de Colombia
+* Clemente Ferrer, PUC
+* Mario de Castro, USP
+* Felipe Osorio
 
 ## Publications
+
+* Vallejos, R. (2026). Agreement coefficients for continuous variables: A review. Environmetrics (accepted).
+* Vallejos, R. , Acosta, J., Sepúlveda, B. (2026). Estimation of the rotation angle between two images by using the angular cross-variogram. Spatial Statistics 73, 100976.
+* Vallejos,R., Ferrer, C., Mateu, J. (2025). A concordance coefficient for lattice data: An application to poverty indices in Chile. Spatial Statistics 70, 100936. 
+* Acosta, J.,  Vallejos, R ., García-Soidán, P. (2025). A penalized estimation of the variogram and effective sample size. Spatial Statistics 69, 100921.
+* Ferrer, C., Vallejos, R. (2025). Is the effective sample size always less than n? A spatial regression approach.  Statistics and Probability Letters 218, 110309.
+* Acosta, J., Vallejos, R., Osorio, F., Ellison, A., de Castro, M. (2024). Comparing two spatial variables with the probability of agreement. Biometrics 80, ujae009.
+* Gómez, J., Acosta, J.,  Vallejos, R., (2024). Correlation integral for stationary Gaussian time series. Sankhya A 86, 191-214.
+* Pérez, J., Acosta, J.,  Vallejos, R., (2023). Assessing the estimation of nearly singular covariance matrices for modelling spatial variables. Electronic Journal of Statistics 17, 32873315.
 
 ## Students
 
