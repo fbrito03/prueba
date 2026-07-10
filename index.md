@@ -31,7 +31,7 @@ The objetives are
   *Pontificia Universidad Católica de Chile*
 * **Mario de Castro**  
   *Universidade de São Paulo*
-* **Felipe Osorio**
+* [Felipe Osorio](https://faosorios.github.io/)
 
 ## Publications
 
