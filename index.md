@@ -4,7 +4,7 @@ layout: default
 
 # Agreement measures for spatio-temporal models with applications toimage processing
 
-> The primary objective of the research is to develop new statistical methodologies and computational algorithms to assess the level of concordance (or agreement) between two spatiotemporal processes, including the comparison of two images or two georeferenced variables. Unlike traditional   coefficients used in image processing—which omit coordinate information—this proposal seeks to generalize the concordance correlation coefficient and extend the probability of agreement by explicitly incorporating the georeferencing of the data.
+The primary objective of the research is to develop new statistical methodologies and computational algorithms to assess the level of concordance (or agreement) between two spatiotemporal processes, including the comparison of two images or two georeferenced variables. Unlike traditional   coefficients used in image processing—which omit coordinate information—this proposal seeks to generalize the concordance correlation coefficient and extend the probability of agreement by explicitly incorporating the georeferencing of the data.
 
 ## Goals
 The objetives are
@@ -23,6 +23,8 @@ The objetives are
 
 ## Publications
 
-## Conferences
-
 ## Students
+
+## Activities
+
+
