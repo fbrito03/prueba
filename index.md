@@ -17,7 +17,6 @@ The objetives are
 
 ## Principal Investigator
 * [Ronny Vallejos](https://rvallejos.mat.utfsm.cl/),
-  
   *Universidad Técnica Federico Santa María*
   
 ## Collaborators
