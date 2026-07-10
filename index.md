@@ -1,4 +1,4 @@
-<img width="1311" height="742" alt="image" src="https://github.com/user-attachments/assets/d1b82868-552b-45a1-896c-a4e98c637ee9" />---
+---
 layout: default
 title: ANID - Fondecyt project Nº 1230012
 ---
