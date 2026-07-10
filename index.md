@@ -34,7 +34,7 @@ The objetives are
 
 * Vallejos, R. (2026). Agreement coefficients for continuous variables: A review. [Environmetrics](https://arxiv.org/abs/2604.22965).
 * Vallejos, R. , Acosta, J., Sepúlveda, B. (2026). Estimation of the rotation angle between two images by using the angular cross-variogram. [Spatial Statistics 73, 100976](https://www.sciencedirect.com/science/article/abs/pii/S2211675326000242).
-* Vallejos,R., Ferrer, C., Mateu, J. (2025). A concordance coefficient for lattice data: An application to poverty indices in Chile. [Spatial Statistics 70, 100936](https://arxiv.org/abs/2505.18935). 
+* Vallejos,R., Ferrer, C., Mateu, J. (2025). A concordance coefficient for lattice data: An application to poverty indices in Chile. [Spatial Statistics 70, 100936](https://www.sciencedirect.com/science/article/abs/pii/S2211675325000582). 
 * Acosta, J.,  Vallejos, R ., García-Soidán, P. (2025). A penalized estimation of the variogram and effective sample size. [Spatial Statistics 69, 100921](https://www.sciencedirect.com/science/article/abs/pii/S2211675325000430).
 * Ferrer, C., Vallejos, R. (2025). Is the effective sample size always less than n? A spatial regression approach.  [Statistics and Probability Letters 218, 110309](https://www.sciencedirect.com/science/article/abs/pii/S0167715224002785).
 * Acosta, J., Vallejos, R., Osorio, F., Ellison, A., de Castro, M. (2024). Comparing two spatial variables with the probability of agreement. [Biometrics 80, ujae009](https://pubmed.ncbi.nlm.nih.gov/38465989/).
