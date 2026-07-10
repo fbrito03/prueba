@@ -9,13 +9,10 @@ The primary objective of the research is to develop new statistical methodologie
 ## Goals
 The objetives are
 
-*   Topic 1: Define a model-free concordance correlation coefficient to measure the agreement between two images.
-*   Topic 2: Define a concordance correlation coefficient for spatio-temporal processes.
-*   Topic 3: Propose a new concordance correlation coefficient for areal data by extending twofold multivariate Conditional Autoregressive (CAR) spatial models to manage complex covariance structures.
-*   Topic 4: Utilize this newly developed ρ<sub>CAR</sub> coefficient to analyze the spatial concordance of the two poverty estimation methodologies reported by the CASEN survey in Chile.
-*   Topic 5: Generalize the probability of concordance for other correlation structures
-*   Topic 6: To study the estimation of the probability of agreement and derive the score and likelihood ratio tests within the proposed parametric framework.
-*   Topic 7: Study the performance of the proposed estimates through a comprehensive Monte Carlo simulation study and analyze a large set of real images to establish advantages and limitations in practice. This set includes images related to soil contamination in the USA and studies with forest data provided by Harvard Forest.
+* Objective 1 (Model-free agreement): Define a model-free concordance correlation coefficient to measure the agreement between two spatial images. 
+* Objective 2 (Parametric CAR extension): Propose a new concordance correlation coefficient ($\rho_{CAR}$) for areal data by extending twofold multivariate Conditional Autoregressive (CAR) models to manage complex covariance structures.
+* Objective 3 (Statistical Inference): Develop the parametric framework for the proposed coefficients, including the study of probability of agreement estimation, score tests, and likelihood ratio tests.
+* Objective 4 (Empirical Validation): Evaluate and validate the performance of the developed methodologies through comprehensive Monte Carlo simulation studies and applications to real-world datasets, including Chilean poverty indices (CASEN), US soil contamination, and Harvard Forest data.
 
 ## Author
 
