@@ -72,10 +72,10 @@ The objetives are
 ## Activities
 
 ### 2026
-* "Statistical Agreement Measures for Image Data." *Geomed 2026*, Pamplona, Spain. June 17-19, 2026.
+* **Vallejos, R.** "Statistical Agreement Measures for Image Data." *Geomed 2026*, Pamplona, Spain. June 17-19, 2026.
 
 ### 2025
-* "The Role of Image Preprocessing in Enhancing Segmentation Accuracy." *Spatial Statistics Conference*, Noordwijk, The Netherlands. July 15-18, 2025.
+* **Vallejos, R.** "The Role of Image Preprocessing in Enhancing Segmentation Accuracy." *Spatial Statistics Conference*, Noordwijk, The Netherlands. July 15-18, 2025.
 * **Vallejos, R.** "Assessing the agreement between two continuous sequences." *METMA-LATAM II*, Barranquilla, Colombia. June 25-27, 2025.
 * **Vallejos, R.** "Statverse: A metaverse for teaching Statistics." *IV Congreso Colombiano de Estadística*, Bogotá, Colombia. May 6-9, 2025.
 
