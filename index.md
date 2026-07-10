@@ -21,7 +21,7 @@ The objetives are
   
 ## Collaborators
 
-* **Jonathan Acosta**  
+* [Jonathan Acosta](https://www.mat.uc.cl/personas/perfil/jonathan.acosta)  
   *Pontificia Universidad Católica de Chile*
 * **Aaron Ellison**  
   *Harvard University*
