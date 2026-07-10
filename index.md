@@ -32,7 +32,7 @@ The objetives are
 
 ## Publications
 
-* Vallejos, R. (2026). Agreement coefficients for continuous variables: A review. Environmetrics (accepted).
+* Vallejos, R. (2026). Agreement coefficients for continuous variables: A review. Environmetrics.
 * Vallejos, R. , Acosta, J., Sepúlveda, B. (2026). Estimation of the rotation angle between two images by using the angular cross-variogram. Spatial Statistics 73, 100976.
 * Vallejos,R., Ferrer, C., Mateu, J. (2025). A concordance coefficient for lattice data: An application to poverty indices in Chile. Spatial Statistics 70, 100936. 
 * Acosta, J.,  Vallejos, R ., García-Soidán, P. (2025). A penalized estimation of the variogram and effective sample size. Spatial Statistics 69, 100921.
