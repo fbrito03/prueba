@@ -69,7 +69,7 @@ The objetives are
 * **Bastián Sepúlveda** *Thesis:* Coeficiente de codispersión angular para detectar rotación de imágenes.  
   Ingeniería Civil Matemática, UTFSM. (October 30, 2023).
 
-## Activities
+## Conference Presentations
 
 ### 2026
 * **Vallejos, R.** "Statistical Agreement Measures for Image Data." *Geomed 2026*, Pamplona, Spain. June 17-19, 2026.
