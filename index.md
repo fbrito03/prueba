@@ -71,4 +71,22 @@ The objetives are
 
 ## Activities
 
+### 2026
+* "Statistical Agreement Measures for Image Data." *Geomed 2026*, Pamplona, Spain. June 17-19, 2026.
+
+### 2025
+* "The Role of Image Preprocessing in Enhancing Segmentation Accuracy." *Spatial Statistics Conference*, Noordwijk, The Netherlands. July 15-18, 2025.
+* **Vallejos, R.** "Assessing the agreement between two continuous sequences." *METMA-LATAM II*, Barranquilla, Colombia. June 25-27, 2025.
+* **Vallejos, R.** "Statverse: A metaverse for teaching Statistics." *IV Congreso Colombiano de Estadística*, Bogotá, Colombia. May 6-9, 2025.
+
+### 2024
+* **Vallejos, R.** "A novel coefficient for assessing agreement between two continuous variables." *SINAPE 2024*, Fortaleza, Brazil. August 4-9, 2024.
+* **Vallejos, R.** "A study of poverty in Chile through agreement coefficients for areal data." *METMA XI*, Lancaster, UK. July 23-25, 2024.
+* **Vallejos, R.** "Dos problemas desafiantes en el modelamiento de datos georeferenciados." *Invited Seminar, Facultad de Ingeniería en Minas y Energía, Universidad de Vigo*, Spain. May 08, 2024.
+
+### 2023
+* **Vallejos, R.** "A coefficient to Measure Agreement Between Two Continuous Variables Based on a L1 Norm." *CMStatistics 2023*, Berlin, Germany. December 15-17, 2023.
+* **Vallejos, R.** "Assessing the Agreement Between two Spatial Variables." *Seminar, School of Mathematics, The University of Edinburgh*, Scotland. October 20, 2023.
+* **Vallejos, R.** "Coefficients of Concordance for Spatial Variables." *A New Era of Statistical Science*, Belo Horizonte, Brazil. August 16-18, 2023.
+
 
