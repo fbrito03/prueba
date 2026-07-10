@@ -1,4 +1,4 @@
----
+<img width="1311" height="742" alt="image" src="https://github.com/user-attachments/assets/d1b82868-552b-45a1-896c-a4e98c637ee9" />---
 layout: default
 title: ANID - Fondecyt project Nº 1230012
 ---
@@ -16,7 +16,7 @@ The objetives are
 * Evaluate and validate the performance of the developed methodologies through comprehensive Monte Carlo simulation studies and applications to real-world datasets, including Chilean poverty indices (CASEN), US soil contamination, and Harvard Forest data.
 
 ## Principal Investigator
-* **Ronny Vallejos**  
+* [Ronny Vallejos](https://rvallejos.mat.utfsm.cl/)
   *Universidad Técnica Federico Santa María*
   
 ## Collaborators
